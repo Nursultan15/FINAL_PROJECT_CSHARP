@@ -27,19 +27,19 @@ namespace RockPaperScissors
             switch (computerTurn)
             {
                 case 1:
-                    pictureBox1.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Rock.jpg";
+                    pictureBox1.ImageLocation = @"C:\Users\Nursultan\Downloads\rock.jpg";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 2:
-                    pictureBox1.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\paper.jpg";
+                    pictureBox1.ImageLocation = @"C:\Users\Nursultan\Downloads\paper.jpg";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 3:
-                    pictureBox1.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Scissors.jpg";
+                    pictureBox1.ImageLocation = @"C:\Users\Nursultan\Downloads\scissor.jpg";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 default:
-                    pictureBox1.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Rock.jpg";
+                    pictureBox1.ImageLocation = @"C:\Users\Nursultan\Downloads\rock.jpg";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
             }
@@ -47,19 +47,19 @@ namespace RockPaperScissors
             switch(playerTurn)
             {
                 case 1:
-                    pictureBox2.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Rock.jpg";
+                    pictureBox2.ImageLocation = @"C:\Users\Nursultan\Downloads\rock.jpg";
                     pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 2:
-                    pictureBox2.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\paper.jpg";
+                    pictureBox2.ImageLocation = @"C:\Users\Nursultan\Downloads\paper.jpg";
                     pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 3:
-                    pictureBox2.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Scissors.jpg";
+                    pictureBox2.ImageLocation = @"C:\Users\Nursultan\Downloads\scissor.jpg";
                     pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 default:
-                    pictureBox2.ImageLocation = @"C:\Users\Shaun\Videos\RockPaperScissors\Rock.jpg";
+                    pictureBox2.ImageLocation = @"C:\Users\Nursultan\Downloads\rock.jpg";
                     pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
             }
