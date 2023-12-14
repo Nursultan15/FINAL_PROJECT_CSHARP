@@ -1,7 +1,7 @@
 # FINAL_PROJECT_CSHARP
 
 
-Rock, Paper, Scissors Game
+ROCK, PAPER, SCISSORS GAME
 
 This is a simple Rock, Paper, Scissors game implemented in C# using Windows Forms. The game allows the player to choose between Rock, Paper, and Scissors, and then randomly generates the computer's choice. The winner is determined based on the classic rules of Rock, Paper, Scissors.
 
