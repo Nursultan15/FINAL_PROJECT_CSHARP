@@ -9,11 +9,13 @@ This is a simple Rock, Paper, Scissors game implemented in C# using Windows Form
 HOW TO PLAY
 
 1)Clone or download the repository.
+
 2)Open the solution in Visual Studio or any C# development environment.
+
 3)Build and run the application.
 
 
-Game Rules
+GAME RULES
 
 1)Rock crushes Scissors.
 
@@ -22,34 +24,35 @@ Game Rules
 3)Paper covers Rock.
 
 
-Project Structure
+PROJECT STRUCTURE
 
-Form1.cs: The main form class containing the game logic.
-
-rock.jpg, paper.jpg, scissor.jpg: Image files for Rock, Paper, and Scissors, respectively.
+-Form1.cs: The main form class containing the game logic.
 
 
-Dependencies
+-rock.jpg, paper.jpg, scissor.jpg: Image files for Rock, Paper, and Scissors, respectively.
+
+
+DEPENDENCIES
 
 .NET Framework
 
 
-How to Run
+HOW TO RUN
 
-Open the solution in Visual Studio or another C# IDE.
+1)Open the solution in Visual Studio or another C# IDE.
 
-Build the solution.
+2)Build the solution.
 
-Run the application.
+3)Run the application.
 
 
-Game Logic
+GAME LOGIC
 
 The game logic is implemented in the button1_Click event handler and the determineWinner method. The computer and player make random choices, and the winner is determined based on the predefined rules.
 
 
-Additional Notes
+ADDITIONAL NOTES
 
-The game uses images for Rock, Paper, and Scissors. Make sure to update the file paths to the images in case they are moved.
+-The game uses images for Rock, Paper, and Scissors. Make sure to update the file paths to the images in case they are moved.
 
-The game provides feedback to the player through a label (label1) indicating whether they won, lost, or if it's a tie.
+-The game provides feedback to the player through a label (label1) indicating whether they won, lost, or if it's a tie.
