@@ -6,23 +6,20 @@ Rock, Paper, Scissors Game
 This is a simple Rock, Paper, Scissors game implemented in C# using Windows Forms. The game allows the player to choose between Rock, Paper, and Scissors, and then randomly generates the computer's choice. The winner is determined based on the classic rules of Rock, Paper, Scissors.
 
 
+HOW TO PLAY
 
-How to Play
-
-Clone or download the repository.
-
-Open the solution in Visual Studio or any C# development environment.
-
-Build and run the application.
+1)Clone or download the repository.
+2)Open the solution in Visual Studio or any C# development environment.
+3)Build and run the application.
 
 
 Game Rules
 
-Rock crushes Scissors.
+1)Rock crushes Scissors.
 
-Scissors cuts Paper.
+2)Scissors cuts Paper.
 
-Paper covers Rock.
+3)Paper covers Rock.
 
 
 Project Structure
